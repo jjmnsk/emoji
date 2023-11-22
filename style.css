@@ -1,0 +1,16 @@
+body
+{
+    color: white;
+    background: rgb(69, 100,79)
+}
+
+.name_of_objects, #result_object_name, #result_object_accuarcy
+{
+    color: yellow;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
